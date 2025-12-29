@@ -21,5 +21,5 @@ The time-series chart below shows the percentage of dust wipes performed, perfor
 
 The summary statistics table below provides a weekly overview of work order activity, detailing total work orders issued, those associated with households with a child under six, and completion outcomes.
 <br>
-
+<br>
 <img width="1239" height="423" alt="image" src="https://github.com/user-attachments/assets/26a3c139-0dd8-42a5-b54c-62923739ab57" />
