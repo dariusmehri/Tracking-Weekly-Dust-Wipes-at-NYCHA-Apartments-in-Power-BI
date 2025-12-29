@@ -8,8 +8,9 @@ NYCHA typically performs dust wipes when a child under six resides in the apartm
 
 A Power BI tool was developed for the Lead Hazard Unit to track dust wipe activity and monitor progress toward NYCHA’s lead-safety compliance goals.
 
-The time-series chart below displays the percentage of dust wipes performed, performed or attempted, and not attempted over time.
+Previously, analytics were performed manually in Excel using downloaded datasets. For this project, the workflow was automated using Python to pull source data directly, process it programmatically, and export it to Power BI for reporting.
 
+The time-series chart below shows the percentage of dust wipes performed, performed or attempted, and not attempted over time.
 <br>
 <br>
 
