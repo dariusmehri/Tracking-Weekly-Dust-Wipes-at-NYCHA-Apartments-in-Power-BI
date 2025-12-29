@@ -13,4 +13,4 @@ The time-series chart below displays the percentage of dust wipes performed, per
 <br>
 <br>
 
-<img width="1251" height="1035" alt="image" src="https://github.com/user-attachments/assets/b4c52362-2cb4-4878-b3a0-07b147400d05" />
+<img width="1251" height="1035" alt="image" src="https://github.com/user-attachments/assets/b4c52362-2cb4-4878-b3a0-07b147400d05" / align="left" width="300">
