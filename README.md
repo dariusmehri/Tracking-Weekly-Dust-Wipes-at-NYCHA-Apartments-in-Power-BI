@@ -15,3 +15,8 @@ The time-series chart below shows the percentage of dust wipes performed, perfor
 <br>
 
 <img width="1251" height="1035" alt="image" src="https://github.com/user-attachments/assets/b4c52362-2cb4-4878-b3a0-07b147400d05" />
+
+<br>
+<br>
+
+The summary statistics table below shows the number of work orders issued per week, the number of work orders with a child under six, the number performed and not performed, etc
