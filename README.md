@@ -10,4 +10,6 @@ A Power BI tool was developed for the Lead Hazard Unit to track dust wipe activi
 
 The time-series chart below displays the percentage of dust wipes performed, performed or attempted, and not attempted over time.
 
+
+
 <img width="1251" height="1035" alt="image" src="https://github.com/user-attachments/assets/b4c52362-2cb4-4878-b3a0-07b147400d05" />
